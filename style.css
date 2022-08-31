@@ -1,0 +1,27 @@
+.primeirasListas{
+    color:green;
+}
+
+.segundaListas{
+    color: darkslablue;
+}
+
+.listas{
+    color: blueviolet;
+}
+
+.tituloInicial{
+    color: aqua;
+    }
+
+#titulo{
+    color: orange;
+}
+
+.paragrafo{
+    font-size:20px;
+    font-family: roboto;
+    line-height: 1.2;
+    border: solid blue 5px;
+    
+}
