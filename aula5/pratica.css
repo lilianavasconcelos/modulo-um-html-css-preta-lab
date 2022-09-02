@@ -7,17 +7,20 @@ body{
 }
 
 .card{
-    width: 425px;
+    width: 400px;
     height: 212px;
     border: 1px solid black;
-    margin: 10px 0 10px 11px;
-    padding: 10px;
+    margin: 10px 0 10px 12px;
+    padding: 12px;
+    display:inline-block;
+       
 }
 
 .card-titulo{
     font-size: medium;
     margin: 0 0 10px 20px;
     display: inline;
+        
 }
 
 .card-imagem{
